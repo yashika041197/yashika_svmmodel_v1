@@ -1,5 +1,5 @@
 # yashika_svmmodel_v1
-My Repository This is a sample repository for a lab assignment. It contains two machine learning models for the breast cancer Wisconsin dataset.
+My Repository This is a sample repository for a lab 2 assignment. It contains two models for the breast cancer dataset.
 
 Model 1 The first model is a svm model.
 
